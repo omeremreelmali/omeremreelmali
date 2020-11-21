@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+  .application-main {
+    background-color: black !important;
+  }
+</style>
