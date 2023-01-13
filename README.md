@@ -4,8 +4,6 @@ Although it was not a very good computer, I reached my first computer a little e
 
 
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeremreelmali&langs_count=3&theme=dark" /> </a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=omeremreelmali&show_icons=true&theme=dark" /></a>
 <!--
 <a href="https://github.com/omeremreelmali/mediaPlayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omeremreelmali&repo=mediaPlayer&theme=dark" />
