@@ -1,6 +1,6 @@
 ### Who am I ? 👋
-<b>React and React Native Developer</b> <br>
-I have been working professionally as a Frontend Developer for 3 years. I develop
+<b>Full Stack Mobile Developer (React Native, TypeScript, .Net Core)</b> <br>
+I have been working professionally as a Frontend Developer for 5 years. I develop
 web and mobile applications with React, React Native and Next.js technologies. I also
 have experience in Backend integrations. I ensure my applications run effectively with
 RESTful APIs and server-side logic. I am to provide innovative solutions at every
